@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @joeltkvaidyan
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Joel 👋
 
-<!---
-joeltkvaidyan/joeltkvaidyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BTech CSE Student  
+🤖 AI/ML & Full-Stack Developer  
+🚀 Passionate about RAG systems, NLP, and intelligent web apps
+
+## Tech Stack
+Python • FastAPI • JavaScript • FAISS • SentenceTransformers • LLMs
+
+## Currently Working On
+- AI-powered document assistants
+- Offline RAG applications
+- NLP & semantic search systems
